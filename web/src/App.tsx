@@ -1,4 +1,4 @@
-import { useWebSocket } from "./services/websocketService";
+import useWebSocket from "./services/websocketService";
 import StockChart from "./components/stockChart";
 
 const App: React.FC = () => {
